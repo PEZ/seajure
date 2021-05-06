@@ -15,9 +15,8 @@
 ## Calva
 
 * Getting Started REPL – https://calva.io/getting-started
-* https://calva.io
-* https://github.com/BetterThanTomorrow/calva/wiki
-* [tao.calva.io](https://tao.calva.io)
+* Docs: https://calva.io
+* Tao: https://github.com/BetterThanTomorrow/calva/wiki
 
 ## ”Slides”
 * https://github.com/PEZ/seajure

@@ -1,6 +1,6 @@
 <div style="height: 88vh;">
 
-# The Tao of Calva – [tao.calva.io](https://tao.calva.io)
+# The Tao of Calva
 
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; height: 84%; overflow-y: auto;">
