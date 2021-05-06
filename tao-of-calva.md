@@ -37,9 +37,10 @@
   * Welcome to Clojure! ❤️
   * Easy to use
   * Hard to put down
+  * Easy to hack on
 * Documentation (sometimes [first](https://github.com/BetterThanTomorrow/calva/issues/282))
 * We are there
-  * We call the shots
+  * We are the stewards
 * Batteries included
 * Turn-key
 * Moves fast, fixed fast

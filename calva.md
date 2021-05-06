@@ -32,7 +32,7 @@ Released March 16 2018  🎉
 
 * **Interactive programming**
   * Connects the editor to the running application's REPL 
-  * Custom REPL-commands
+  * [Custom REPL-commands](https://calva.io/custom-commands/)
 * **[Structural editing](https://calva.io/paredit)** {([(((♥️)))])}
 * **Getting Started REPL** <br> https://calva.io/getting-started
   * Unique for Calva 
